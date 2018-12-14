@@ -1,0 +1,27 @@
+.image{
+    border: center;
+}
+}
+table, tr, td{
+    border: 2px solid black;
+    padding: 1px;
+    width: 50%;
+    height:20%;
+    background-color: lightgrey;
+    float: center;
+    font-size: 20px;
+}
+
+thead{
+    color: rgb(73, 177, 26);
+    font-size: 35px;
+    background-color: black;
+}
+
+
+h1{
+    color: blue;
+    text-align: center;
+    font-size: 50px;
+}
+
